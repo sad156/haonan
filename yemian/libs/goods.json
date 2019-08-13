@@ -1,0 +1,67 @@
+﻿[
+	{
+		        "name":"FAN7631SJX",
+	            "price":"220",
+	            "url":"images/chanpin.png",
+				"tip":"用于半桥谐振变换器的PFM控制器",
+				"goodsId":"asjg"
+
+	},
+	{
+	            "name":"FDS89161LZ",
+	            "price":"120",
+				"url":"images/chanpin1.png",
+				"goodsId":"aasd",
+				"tip":"双N沟道屏蔽栅极MOSFET"
+
+	},
+	{
+	            "name":"FDS89161LZ",
+	            "price":"320",
+				"url":"images/chanpin2.png",
+				"goodsId":"aasadsd",
+				"tip":"双N沟道屏蔽栅极4ACP+48S"
+
+	},
+	{
+	            "name":"10106265-G012002LF",
+	            "price":"130",
+				"url":"images/chanpin3.png",
+				"goodsId":"aassad",
+				"tip":"4ACP+48S+12HDP直角插座"
+
+	},
+
+	{
+	            "name":"BCR401WH6327",
+	            "price":"220",
+				"url":"images/chanpin.png",
+				"goodsId":"aasqwed",
+				"tip":"18V,LED照明驱动器"
+
+	},
+	{
+	            "name":"SMBJ5",
+	            "price":"150",
+				"url":"images/chanpin2.png",
+				"goodsId":"wqewqaasd",
+				"tip":"瞬态电压抑制器"
+
+	},
+	{
+	            "name":"SMBJ5.0A-E3/52",
+	            "price":"250",
+				"url":"images/chanpin3.png",
+				"goodsId":"aahjsd",
+				"tip":"5V,TVS瞬态电压抑制器"
+
+	},
+	{
+	            "name":"TPS54231DR",
+	            "price":"240",
+				"url":"images/chanpin4.png",
+				"goodsId":"aastrd",
+				"tip":"3.5~28V输入降压转换器"
+
+	}
+]
